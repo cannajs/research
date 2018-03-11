@@ -1,0 +1,195 @@
+- [ ] parent
+    - [ ] af (goo)
+- [ ] people
+    - [ ] jack (Herrer)
+    - [ ] bob (Marley)
+    - [ ] bruce (Banner)
+    - [ ] casey (Jones)
+    - [ ] Obama (kush)
+    - [ ] Martin Sheen (kush)
+    - [ ] King Louis XIII
+    - [ ] ACDC
+    - [ ] Larry (og)
+    - [ ] Khalifa (kush)
+    - [ ] Jesus (og)
+    - [ ] Snoop
+    - [ ] Willie Nelson
+- [ ] taste
+    - [ ] sour
+- [ ] smell
+    - [ ] skunk
+    - [ ] cheese
+    - [ ] diesel
+    - [ ] piss
+    - [ ] sweet
+- [ ] animals
+    - [ ] cat
+    - [ ] gorilla
+    - [ ] ape
+    - [ ] goat
+    - [ ] rhino
+    - [ ] lamb
+    - [ ] buffalo
+    - [ ] dragon
+    - [ ] monkey
+- [ ] color inflection
+    - [ ] purp*
+    - [ ] red
+    - [ ] blue
+    - [ ] bloody
+    - [ ] pink
+    - [ ] green
+    - [ ] gold
+    - [ ] orange
+    - [ ] white
+    - [ ] black
+    - [ ] silver
+    - [ ] lavender
+- [ ] location / place
+    - [ ] nyc
+    - [ ] africa
+    - [ ] Acapulco
+    - [ ] afghan
+    - [ ] alaska
+    - [ ] alien
+    - [ ] thai
+    - [ ] maui
+    - [ ] LA
+    - [ ] tahoe
+    - [ ] dutch
+    - [ ] chernobyl
+    - [ ] island
+    - [ ] russia
+    - [ ] uk
+    - [ ] kali
+    - [ ] Mendocino
+    - [ ] Paris
+    - [ ] Cali (california)
+    - [ ] New York
+    - [ ] hawaii
+    - [ ] east coast
+    - [ ] SFV
+    - [ ] congo
+    - [ ] oregon
+    - [ ] northern
+    - [ ] jamaica
+    - [ ] humboldt
+    - [ ] swazi
+    - [ ] colombia
+    - [ ] hong kong
+    - [ ] seattle
+    - [ ] holywood
+- [ ] edible
+    - [ ] berry
+    - [ ] pineapple
+    - [ ] candy
+    - [ ] chocolate
+    - [ ] cookie
+    - [ ] lemon
+    - [ ] grape
+    - [ ] cherry
+    - [ ] mango
+    - [ ] sherbert
+    - [ ] gum
+    - [ ] bean
+    - [ ] tangerine
+    - [ ] orange
+    - [ ] gelato
+    - [ ] fruit (grapefruit)
+    - [ ] vanilla
+    - [ ] banana
+    - [ ] lime
+    - [ ] cake
+    - [ ] apple
+    - [ ] papaya
+    - [ ] watermelon
+    - [ ] honey
+    - [ ] caramel
+    - [ ] guava
+    - [ ] mint
+- [ ] hair color inflection
+    - [ ] fire
+- [ ] sensation inflection
+    - [ ] haze
+    - [ ] headband
+- [ ] slang
+    - [ ] loud
+    - [ ] kind
+    - [ ] og
+    - [ ] kush
+    - [ ] bud
+    - [ ] space
+    - [ ] hash
+    - [ ] goo
+    - [ ] dawg
+    - [ ] glue
+    - [ ] jones
+    - [ ] poison
+    - [ ] chem
+    - [ ] sour
+    - [ ] rocks
+- [ ] buzzword
+    - [ ] super
+    - [ ] cough
+    - [ ] widow
+    - [ ] master
+    - [ ] god
+    - [ ] platinum
+    - [ ] ultra
+    - [ ] queen
+    - [ ] king
+    - [ ] crush
+    - [ ] star
+    - [ ] Skywalker
+    - [ ] presidential
+    - [ ] bubba
+    - [ ] power
+    - [ ] pound
+    - [ ] stomp
+    - [ ] haze
+    - [ ] wreck
+    - [ ] double
+    - [ ] jedi
+    - [ ] the
+    - [ ] of
+    - [ ] dream
+    - [ ] crack
+    - [ ] pure
+    - [ ] Yoda
+    - [ ] fuel
+    - [ ] big
+    - [ ] diamond
+    - [ ] death
+    - [ ] dark
+    - [ ] monster
+    - [ ] fuck
+    - [ ] bomb
+    - [ ] royal
+    - [ ] critical
+    - [ ] goddess
+    - [ ] princess
+    - [ ] milk
+    - [ ] pearl
+    - [ ] 
+- [ ] trichome content
+    - [ ] ice
+    - [ ] frost
+    - [ ] snow
+    - [ ] crystal
+- [ ] numbers
+    - [ ] 13
+    - [ ] 99
+    - [ ] ak-47
+- [ ] religion / peoples
+    - [ ] kosher
+    - [ ] hindu
+    - [ ] romulan
+    - [ ] agent
+    - [ ] buddha
+    - [ ] diablo
+    - [ ] santa maria
+    - [ ] 
+- [ ] objects / things
+    - [ ] train
+    - [ ] ghost
+    - [ ] 
